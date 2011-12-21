@@ -2,7 +2,7 @@ This small gem is supposed to be used on Ubuntu only (for now). It's actually wo
 
 * Rails.logger messages (ones with severity >= WARN level)
 
-* Results of running rspec/cucumber/test::unit test suits [TODO]
+* Results of running rspec/cucumber/test::unit test suits
 
 In order to use it you need to make sure you have a 'notify-bin' package installed:
 

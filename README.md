@@ -22,4 +22,9 @@ and run
 bundle install
 ```
 
+TODO:
+
+* messages merging
+* more icons
+
 Copyright © 2011 Dmitrii Samoilov, released under the MIT license

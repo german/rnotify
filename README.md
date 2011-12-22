@@ -4,6 +4,10 @@ This small gem is supposed to be used on Ubuntu only (for now). It's actually wo
 
 * Results of running rspec/cucumber/test::unit test suits
 
+Screenshot:
+
+![rnotify screenshot](http://germaninthetown.com/rnotify_screenshot.png)
+
 In order to use it you need to make sure you have a 'notify-bin' package installed:
 
 ```sh

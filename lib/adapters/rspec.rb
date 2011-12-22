@@ -1,13 +1,3 @@
-=begin
-RSpec.configure do |c|
-  c.after(:all) do
-    if example.exception
-      `notify-send "Rspec", "#{example.exception.message}"`
-    end
-  end
-end
-=end
-
 class NotifyOSDReporter < RSpec::Core::Formatters::ProgressFormatter
   def initialize(output)
     super(output)

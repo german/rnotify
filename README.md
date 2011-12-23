@@ -8,7 +8,7 @@ Screenshot:
 
 ![rnotify screenshot](http://germaninthetown.com/rnotify_screenshot.png)
 
-In order to use it you need to make sure you have a 'notify-bin' package installed:
+In order to use it you need to make sure you have a 'libnotify-bin' package installed:
 
 ```sh
 sudo apt-get install libnotify-bin

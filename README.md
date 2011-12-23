@@ -11,7 +11,7 @@ Screenshot:
 In order to use it you need to make sure you have a 'notify-bin' package installed:
 
 ```sh
-sudo apt-get install notify-bin
+sudo apt-get install libnotify-bin
 ```
 
 then just add this line to your Gemfile:

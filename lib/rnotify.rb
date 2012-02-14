@@ -6,3 +6,4 @@ require 'rspec/core/formatters/progress_formatter'
 
 require File.join(File.dirname(__FILE__), 'adapters', 'logger').to_s
 require File.join(File.dirname(__FILE__), 'adapters', 'rspec').to_s
+require File.join(File.dirname(__FILE__), 'adapters', 'cucumber').to_s

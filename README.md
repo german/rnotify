@@ -64,4 +64,4 @@ TODO:
 * messages merging [done - only possible with old ubuntu *notification-daemon* library]
 * more icons
 
-Copyright © 2011 Dmitrii Samoilov, released under the MIT license
+Copyright © 2011 Dmytro Samoilov, released under the MIT license

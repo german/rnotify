@@ -5,14 +5,12 @@ Gem::Specification.new do |s|
   s.version = "0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.2") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Dmitrii Samoilov"]
+  s.authors = ["Dmytro Samoilov"]
   s.date = "2012-02-14"
   s.description = "Using NotifyOSD system in Ubuntu to display Rails logger messages and TDD/BDD messages"
   s.email = "germaninthetown@gmail.com"
-  s.extra_rdoc_files = ["README.md", "lib/adapters/cucumber.rb", "lib/adapters/logger.rb", "lib/adapters/rspec.rb", "lib/resources/warn.png", "lib/rnotify.rb"]
   s.files = ["README.md", "Rakefile", "lib/adapters/cucumber.rb", "lib/adapters/logger.rb", "lib/adapters/rspec.rb", "lib/resources/warn.png", "lib/rnotify.rb", "rnotify.gemspec", "Manifest"]
   s.homepage = "https://github.com/german/rnotify"
-  s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Rnotify", "--main", "README.md"]
   s.require_paths = ["lib"]
   s.rubyforge_project = "rnotify"
   s.rubygems_version = "1.8.15"
